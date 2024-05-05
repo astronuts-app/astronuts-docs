@@ -33,10 +33,10 @@
         <sitemap priority="0.35" change-frequency="monthly"/>
         <variables>
             <noindex-content>false</noindex-content>
-            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>
-            <og-twitter>@onwriterside</og-twitter>
-            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>
-            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>
+            <product-web-url>https://www.astronuts.io/</product-web-url>
+            <og-twitter>@goAstronuts</og-twitter>
+            <og-image>https://cdn.astronuts.io/meta-i-20240414-be59411b-147c-53aa-9c6e-81dc5c39fbee.png</og-image>
+<!--            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>-->
         </variables>
     </build-profile>
 </buildprofiles>
