@@ -4,13 +4,55 @@
 
 <instance-profile id="astronuts"
                  name="Astronuts Docs"
-                 start-page="Default-topic.md">
+                 start-page="Getting-Started-Page.topic">
+    <toc-element topic="Getting-Started-Page.topic">
+        <toc-element topic="Signup.md"/>
+        <toc-element topic="Introduction.md"/>
+        <toc-element topic="Dashboard.md">
+            <toc-element topic="Logging-in.md"/>
+            <toc-element topic="Navigation.md"/>
+            <toc-element topic="Appearance.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="First-Steps.topic">
+        <toc-element topic="Connect-Git-Repositories.md"/>
+        <toc-element topic="Connect-issue-management-tool.md"/>
+        <toc-element topic="Connect-Slack.md"/>
+        <toc-element topic="Invite-team-members.md"/>
+        <toc-element topic="Select-billing-plan.md"/>
+    </toc-element>
+    <toc-element topic="Products.topic">
+        <toc-element topic="Pull-request-insights.md"/>
+        <toc-element topic="Error-monitoring.md"/>
+        <toc-element topic="Engineering-metrics-and-analytics.md"/>
+    </toc-element>
+    <toc-element topic="Integrations.topic">
+        <toc-element topic="Slack-app.md"/>
+        <toc-element topic="GitHub-app.md"/>
+        <toc-element topic="Atlassian-apps-and-integrations.topic">
+            <toc-element topic="JIra-OAuth2-integration.md"/>
+            <toc-element topic="Confluence-OAuth2-integration.md"/>
+            <toc-element topic="Bitbucket-OAuth2-integration.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Tools-and-libraries.topic">
+        <toc-element topic="GitHub-code-quality-action.md"/>
+        <toc-element topic="Bitbucket-code-quality-pipe.md"/>
+        <toc-element topic="Error-monitoring-libraries.md"/>
+    </toc-element>
+    <toc-element topic="Astronuts-platform-architecture.md"/>
+    <toc-element topic="Contributions.md"/>
+    <toc-element topic="Open-source.md"/>
+    <toc-element topic="Privacy-policy.md"/>
+    <toc-element topic="Terms-of-service.md"/>
+    <toc-element topic="Support.md"/>
 
-    <toc-element topic="Default-topic.md"/>
-    <toc-element topic="Play-with-semantic-attributes.md"/>
-    <toc-element topic="Add-semantic-elements-to-Markdown.md"/>
-    <toc-element topic="Convert-Markdown-to-XML.md"/>
-    <toc-element topic="Quickly-add-images-links-and-tables.md"/>
-    <toc-element topic="Add-Mermaid-diagrams.md"/>
-    <toc-element topic="Add-math-formulas.md"/>
+    <!--    <toc-element topic="Default-topic.md"/>-->
+<!--    <toc-element topic="Play-with-semantic-attributes.md"/>-->
+<!--    <toc-element topic="Add-semantic-elements-to-Markdown.md"/>-->
+<!--    <toc-element topic="Convert-Markdown-to-XML.md"/>-->
+<!--    <toc-element topic="Quickly-add-images-links-and-tables.md"/>-->
+<!--    <toc-element topic="Add-Mermaid-diagrams.md"/>-->
+<!--    <toc-element topic="Add-math-formulas.md"/>-->
+
 </instance-profile>

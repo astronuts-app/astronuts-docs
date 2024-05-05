@@ -1,0 +1,3 @@
+# Bitbucket code quality pipe
+
+Start typing here...

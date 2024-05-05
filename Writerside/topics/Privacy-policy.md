@@ -1,0 +1,3 @@
+# Privacy policy
+
+Start typing here...

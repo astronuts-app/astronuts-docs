@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="First Steps" id="First-Steps">
+
+<!--    A section combines multiple topics dedicated to a specific subject.
+            Add a starting page to provide an overview of the topics in the section.
+            Start with two topics you want to promote in the <spotlight> group,
+            several important topics in the <primary> group (for example, where to start),
+            several less important topics in the <secondary> group (for example, more advanced topics),
+            and optionally add any other relevant topics in the <misc> group as cards and lists of links
+            (maybe related topics from other sections).
+            Only the spotlight section is limited to two topics.
+            For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
+
+    <section-starting-page>
+        <title>First steps</title>
+        <description>
+            These steps allow you to take the most advantage of Astronuts features and hit the ground running.
+        </description>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+<!--            <title>First steps</title>-->
+            <a href="" summary="Connect your GitHub organization with Astronuts">Connect your Git repositories</a>
+            <a href="" summary="Connect your issue management tools like Jira">Connect your issue management tool</a>
+            <a href="" summary="Install the Slack app for Astronuts">Connect your Slack workspace</a>
+            <a href="" summary="Add your team members and assign them roles">Invite your team members</a>
+        </primary>
+
+    </section-starting-page>
+
+</topic>

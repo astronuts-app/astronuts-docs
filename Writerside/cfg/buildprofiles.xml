@@ -3,11 +3,12 @@
     <variables>
         <web-root>https://www.astronuts.io/docs</web-root>
         <download-page>https://www.astronuts.io</download-page>
-        <download-title>Get Astronuts</download-title>
+        <download-title>Signup</download-title>
         <showDownloadButton>true</showDownloadButton>
-        <primary-color>cyan</primary-color>
-        <header-logo>writerside.svg</header-logo>
-        <custom-favicons>https://www.jetbrains.com/icon-512.png</custom-favicons>
+        <primary-color>ruby</primary-color>
+        <color-preset>soft</color-preset>
+        <header-logo>astronuts-logo-512.svg</header-logo>
+        <custom-favicons>https://cdn.astronuts.io/docs/astronuts-logo-512.png</custom-favicons>
         <offline-docs>true</offline-docs>
     </variables>
 
@@ -21,9 +22,11 @@
     <footer>
         <social type="blog" href="https://www.astronuts.io/blog">Astronuts Blog</social>
         <social type="twitter" href="https://twitter.com/goAstronuts">Astronuts on Twitter</social>
+        <social type="youtube" href="https://www.youtube.com/@goAstronuts">Astronuts on YouTube</social>
+        <social type="linkedin" href="https://www.linkedin.com/company/astronuts-platform/">Astronuts on LinkedIn</social>
 
-        <link href="https://youtrack.jetbrains.com/issues/WRS">Issue tracker</link>
-        <link href="https://youtrack.jetbrains.com/form/9cf3cf67-8bc0-4cbc-824c-7ade4c563338">Submit support request</link>
+        <link href="https://github.com/astronuts-app/astronuts-tracker/issues">Issue tracker</link>
+        <link href="https://github.com/astronuts-app/astronuts-tracker/issues">Feature requests</link>
         <link href="mailto:support@astronuts.io">Contact us</link>
 
         <copyright>2024 Astronuts, Inc.</copyright>

@@ -1,0 +1,3 @@
+# GitHub code quality action
+
+Start typing here...

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Products" id="Products">
+
+<!--    A section combines multiple topics dedicated to a specific subject.
+            Add a starting page to provide an overview of the topics in the section.
+            Start with two topics you want to promote in the <spotlight> group,
+            several important topics in the <primary> group (for example, where to start),
+            several less important topics in the <secondary> group (for example, more advanced topics),
+            and optionally add any other relevant topics in the <misc> group as cards and lists of links
+            (maybe related topics from other sections).
+            Only the spotlight section is limited to two topics.
+            For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
+
+    <section-starting-page>
+        <title>Products</title>
+        <description>
+            Start using Astronuts products at your own pace. Each one is designed to help you ship faster,
+            save costs and have happy customers.
+        </description>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <a href="Pull-request-insights.md"  summary="Got automated PR summary, PR readiness labels and code quality metrics.">Pull Request insights</a>
+            <a href="Error-monitoring.md" summary="Get realtime insights and resolutions of production errors observed in your application server logs">Error monitoring</a>
+            <a href="Engineering-metrics-and-analytics.md" summary="Get engineering metrics from static code quality analysis and DORA metrics">Engineering metrics and analytics</a>
+        </primary>
+
+    </section-starting-page>
+
+</topic>
