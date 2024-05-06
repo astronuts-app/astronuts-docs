@@ -4,7 +4,7 @@
         <algolia-id>QNSY1C3U5R</algolia-id>
         <algolia-index>prod_ASTRONUTSDOCS</algolia-index>
         <algolia-api-key>bd7323a788c9eb90016ec0367861cd82</algolia-api-key>
-        <web-root>https://www.astronuts.io</web-root>
+        <web-root>https://www.astronuts.io/docs/</web-root>
         <download-page>https://www.astronuts.io</download-page>
         <download-title>Signup</download-title>
         <showDownloadButton>true</showDownloadButton>
