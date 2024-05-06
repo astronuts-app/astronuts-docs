@@ -228,7 +228,9 @@ Our Services are not designed for and are not marketed to people under the age o
 
 ### Contact us:
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to hello@Astronuts.com, and we will try to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies,
+please send us a detailed message to support@astronuts.io,
+and we will try to resolve your concerns.
 
 
 ### When will this notice be updated?
