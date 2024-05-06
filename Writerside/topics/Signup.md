@@ -5,7 +5,7 @@ This topic explains how to sign up for an account.
 
 <procedure title="Create an account" id="create-an-account">
     <step>
-        <p>Access the <a href="https://www.astronuts.io/signup">Astronuts signup page</a> or open a browser window and go to https://www.astronuts.io/signup.</p>
+        <p>Access the <a href="https://dashboard.astronuts.io/signup">Astronuts signup page</a> or open a browser window and go to https://dashboard.astronuts.io/signup.</p>
     </step>
     <step>
         <p>Enter your full name and work email ID. Optionally, enter your organization name and click on <shortcut>Continue</shortcut> </p>
