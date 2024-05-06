@@ -65,7 +65,7 @@ jobs:
       - name: Unzip artifact
         run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d docsite
       - uses: kefranabg/s3-sync-action@master
-        name: Upload to AWS S3
+        name: Deploy and invalidate docs cache
         with:
           args: --follow-symlinks --delete
         env:
@@ -76,6 +76,14 @@ jobs:
           SOURCE_DIR: './docsite'
           DEST_DIR: ''
           DISTRIBUTION_ID: ${{ secrets.ASTRONUTS_DOCS_CF_DISTRIBUTION }}
+      - name: Invalidate website cache
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: ${{ secrets.ASTRONUTS_WEBSITE_CF_DISTRIBUTION }}
+          PATHS: "/docs /docs/*"
+          AWS_REGION: "us-east-1"
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
   publish-indexes:
     needs: [build, deploy]
