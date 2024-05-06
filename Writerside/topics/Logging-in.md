@@ -7,7 +7,7 @@ To Log in and access your dashboard, take the following steps.
         <p>Access the <a href="https://dashboard.astronuts.io/signup">Astronuts signup page</a> or open a browser window and go to https://dashboard.astronuts.io/signup.</p>
     </step>
     <step>
-        <p>Enter the email you used to sign up. Enter your password and click the <shortcut>Sign in</shortcut> button. </p>
+        <p>Enter the email you used to sign up. Enter your password and click <b>Sign in</b>. </p>
         <tip>
             <p>
                 If you have forgotten your password, click on the <shortcut>Forgot password</shortcut> link or <a href="https://dashboard.astronuts.io/forgot-password">request a new password</a>.

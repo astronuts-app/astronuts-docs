@@ -8,7 +8,7 @@ This topic explains how to sign up for an account.
         <p>Access the <a href="https://dashboard.astronuts.io/signup">Astronuts signup page</a> or open a browser window and go to https://dashboard.astronuts.io/signup.</p>
     </step>
     <step>
-        <p>Enter your full name and work email ID. Optionally, enter your organization name and click on <shortcut>Continue</shortcut> </p>
+        <p>Enter your full name and work email ID. Optionally, enter your organization name and click <b>Continue</b></p>
         <note>
             <p>
                 Ensure that you specify your work email ID.
@@ -18,7 +18,7 @@ Personal emails e.g., those from Gmail, Yahoo, etc. prevent you from using all t
         <img src="signup.png" alt="signup" border-effect="line" width="321" thumbnail="false"/>
     </step>
     <step>
-        <p>Choose a strong password and click <shortcut>Continue</shortcut> </p>
+        <p>Choose a strong password and click <b>Continue</b> </p>
         <tip>
             <p>
                 Choose a strong password that is at least 12 characters long
@@ -39,7 +39,7 @@ You may add support@astronuts.io to your trusted list of senders to avoid this i
         <img src="verification-code.png" alt="choose password" border-effect="line" width="321" thumbnail="false"/>
     </step>
     <step>
-        <p>Enter the verification code you received and click <shortcut>Continue</shortcut>. </p>
+        <p>Enter the verification code you received and click <b>Continue</b>. </p>
         <img src="otp-entry.png" alt="enter verification code" border-effect="line" width="321" thumbnail="false"/>
     </step>
     <step>
