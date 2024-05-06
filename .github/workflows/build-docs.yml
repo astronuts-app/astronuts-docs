@@ -91,11 +91,11 @@ jobs:
     container:
       image: registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-3
     steps:
-      - name: Download artifact
+      - name: Download Algolia indexes zip
         uses: actions/download-artifact@v4
         with:
           name: docs
-      - name: Unzip artifact
+      - name: Update Algolia indexes
         run: |
           unzip -O UTF-8 -qq '${{ env.ALGOLIA_ARTIFACT }}' -d algolia-indexes
           env algolia-key='${{env.ALGOLIA_KEY}}' java -jar /opt/builder/help-publication-agent.jar \
