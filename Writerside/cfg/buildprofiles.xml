@@ -12,7 +12,7 @@
         <color-preset>soft</color-preset>
         <header-logo>astronuts-logo-512.svg</header-logo>
         <custom-favicons>https://cdn.astronuts.io/docs/astronuts-logo-512.png</custom-favicons>
-        <offline-docs>true</offline-docs>
+        <offline-docs>false</offline-docs>
     </variables>
 
     <shortcuts>
