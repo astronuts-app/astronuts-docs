@@ -46,4 +46,9 @@
 <!--            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>-->
         </variables>
     </build-profile>
+    <build-profile instance="pg">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 </buildprofiles>
