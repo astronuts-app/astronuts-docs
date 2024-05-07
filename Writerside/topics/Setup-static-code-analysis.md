@@ -46,7 +46,7 @@ or submit a feature request in our [Astronuts issue tracker](https://github.com/
         </tip>
     </step>
     <step>
-        <p>Typically, you would want the static code quality analysis to run on your <b>main</b> branch and <b>feature</b> branches.
+        <p>Typically, you would want the static code quality analysis to run on your <code>main</code> branch and <code>feature</code> branches.
             There is no restriction on which branches you want to run static code quality analysis.</p>
         <p>For example, to run static code quality on the <code>main</code> branch and some specific branches matching certain prefixes, you would typically use these statements at the top of your workflow file.</p>
         <code-block lang="yaml">
@@ -90,7 +90,7 @@ or submit a feature request in our [Astronuts issue tracker](https://github.com/
         <tip>
             <p>
                 For a successful static code quality analysis
-                using the <a href="GitHub-code-quality-action.md">Astronuts GitHub code quality action</a>,
+                using the <a href="GitHub-code-quality-action.md"><b>Astronuts GitHub code quality action</b></a>,
                 you must <b>first install</b> the <a href="GitHub-app.md"><b>Astronuts GitHub app</b></a>.
                 Doing so,
                 authorizes you
@@ -102,7 +102,7 @@ or submit a feature request in our [Astronuts issue tracker](https://github.com/
         <p>After you ensure that the action ran successfully on your <code>feature</code> branch, you can run the action on your <code>main</code> branch.</p>
         <tip>
             <p>
-               Running the <a href="GitHub-code-quality-action.md"><b>Astronuts GitHub code quality action</b></a> on your <code>main</code> <b>and</b> <code>feature</code> branches gives you rich trends and diffs on <a href="Pull-request-insights.md">Pull request insights</a>. You can see the impact of your pull request on the overall quality of your repository if the pull request is merged.
+               Running the <a href="GitHub-code-quality-action.md"><b>Astronuts GitHub code quality action</b></a> on your <code>main</code> <b>and</b> <code>feature</code> branches gives you rich trends and diffs on <a href="Pull-request-insights.md"><b>Pull request insights</b></a>. You can see the impact of your pull request on the overall quality of your repository if the pull request is merged.
             </p>
         </tip>
         <p>When code quality analysis data is available for both your <code>main</code> and <code>feature</code> branch, we attach the following type of image on a comment that the <a href="Pull-request-insights.md">Astronuts Pull Request Insights</a> bot adds to your pull requests.
