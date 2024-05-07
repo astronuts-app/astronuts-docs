@@ -18,16 +18,24 @@
     <section-starting-page>
         <title>First steps</title>
         <description>
-            These steps allow you to take the most advantage of Astronuts features and hit the ground running.
+            Setup Astronuts for your team so that you can start using all available products and features.
         </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="Connect-Git-Repositories.md" type="branch"
+               summary="Connect your GitHub organization with Astronuts">Connect your Git repositories</a>
+            <a href="Setup-AI-Training.md" type="network"
+               summary="Start building your contextual knowledge base by training Astronuts on your data">Train Astronuts on your data</a>
+        </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
 <!--            <title>First steps</title>-->
-            <a href="" summary="Connect your GitHub organization with Astronuts">Connect your Git repositories</a>
             <a href="" summary="Connect your issue management tools like Jira">Connect your issue management tool</a>
             <a href="" summary="Install the Slack app for Astronuts">Connect your Slack workspace</a>
             <a href="" summary="Add your team members and assign them roles">Invite your team members</a>
+            <a href="" summary="Choose a billing plan that suits your needs">Choose a billing plan</a>
         </primary>
 
     </section-starting-page>

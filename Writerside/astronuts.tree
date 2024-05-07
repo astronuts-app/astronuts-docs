@@ -7,15 +7,16 @@
                  start-page="Getting-Started-Page.topic">
     <toc-element topic="Getting-Started-Page.topic">
         <toc-element topic="Signup.md"/>
+        <toc-element topic="Introduction.md"/>
         <toc-element topic="Dashboard.md">
             <toc-element topic="Logging-in.md"/>
             <toc-element topic="Navigation.md"/>
             <toc-element topic="Appearance.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Introduction.md"/>
     <toc-element topic="First-Steps.topic">
         <toc-element topic="Connect-Git-Repositories.md"/>
+        <toc-element topic="Setup-AI-Training.md"/>
         <toc-element topic="Connect-issue-management-tool.md"/>
         <toc-element topic="Connect-Slack.md"/>
         <toc-element topic="Invite-team-members.md"/>
