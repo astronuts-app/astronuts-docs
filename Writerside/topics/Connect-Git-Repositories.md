@@ -21,19 +21,19 @@ The steps for other Git providers are similar.
                 or <a href="https://github.com/astronuts-app/astronuts-tracker/issues">create an issue</a> in our tracker.
             </p>
         </tip>
-        <img src="install-github-app.png" alt="install github app" border-effect="line" width="321" thumbnail="true"/>
+        <img src="install-github-app.png" alt="install github app" border-effect="line" width="321" thumbnail="false"/>
     </step>
     <step>
         <p>Review the pre-requisites and click on <b>Install</b> if you meet the pre-requisites.</p>
         <tip>
             <p>
-                If you don't have the authority to install apps in your organizational account,
+                If you don't have the authority to install apps in your organizational GitHub account,
                 <a href="Invite-team-members.md">invite someone</a> who has the authority
                 or ask them to grant you authority.
                 You can come back and install the app later by following the steps mentioned on this page.
             </p>
         </tip>
-        <img src="git-review-pre-requisites.png" alt="review pre-requisites and authority" border-effect="line" width="321" thumbnail="true"/>
+        <img src="git-review-pre-requisites.png" alt="review pre-requisites and authority for GitHub app install" border-effect="line" width="321" thumbnail="true"/>
     </step>
     <step>
         <p>Depending on the tool you are trying to connect, you will see an application-specific page asking you to take actions specific to your Git provider. Choose the options that apply to you</p>
@@ -59,7 +59,7 @@ thumbnail="false"/>
     </step>
     <step>
         <p>To confirm that Astronuts has access to your Git repositories, navigate to 
-            <b>Intellidocs | Train</b> from the sidebar.</p>
+            <b>Intellidocs | Train</b> from the sidebar and look for your GitHub repositories.</p>
         <tip>
             <p>
                 It might a few seconds for Astronuts
