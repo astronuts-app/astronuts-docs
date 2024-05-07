@@ -31,12 +31,17 @@
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-<!--            <title>First steps</title>-->
-            <a href="" summary="Connect your issue management tools like Jira">Connect your issue management tool</a>
-            <a href="" summary="Install the Slack app for Astronuts">Connect your Slack workspace</a>
-            <a href="" summary="Add your team members and assign them roles">Invite your team members</a>
-            <a href="" summary="Choose a billing plan that suits your needs">Choose a billing plan</a>
+            <title>Enrich your setup further</title>
+            <a href="Connect-issue-management-tool.md" summary="Connect your issue management tools like Jira">Connect your issue management tool</a>
+            <a href="Connect-Slack.md" summary="Install the Slack app for Astronuts">Connect your Slack workspace</a>
         </primary>
+
+        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
+        <secondary>
+            <title>Bring in your team</title>
+            <a href="Invite-team-members.md" summary="Add your team members and assign them roles">Invite your team members</a>
+            <a href="Select-billing-plan.md" summary="Choose a billing plan that suits your needs">Choose a billing plan</a>
+        </secondary>
 
     </section-starting-page>
 
