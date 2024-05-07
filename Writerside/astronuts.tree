@@ -17,6 +17,7 @@
     <toc-element topic="First-Steps.topic">
         <toc-element topic="Connect-Git-Repositories.md"/>
         <toc-element topic="Setup-AI-Training.md"/>
+        <toc-element topic="Setup-static-code-analysis.md"/>
         <toc-element topic="Connect-issue-management-tool.md"/>
         <toc-element topic="Connect-Slack.md"/>
         <toc-element topic="Invite-team-members.md"/>

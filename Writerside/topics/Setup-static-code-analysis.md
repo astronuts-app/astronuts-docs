@@ -1,0 +1,3 @@
+# Setup static code analysis
+
+Start typing here...
