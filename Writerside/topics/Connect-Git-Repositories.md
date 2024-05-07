@@ -18,7 +18,7 @@ The steps for other Git providers are similar.
         <tip>
             <p>
                 If you don't see your provider, <a href="mailto:support@astronuts.io">email</a> us,
-                or <a href="https://github.com/astronuts-app/astronuts-tracker/issues">create in issue</a> in our tracker.
+                or <a href="https://github.com/astronuts-app/astronuts-tracker/issues">create an issue</a> in our tracker.
             </p>
         </tip>
         <img src="install-github-app.png" alt="install github app" border-effect="line" width="321" thumbnail="true"/>
