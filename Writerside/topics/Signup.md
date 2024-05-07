@@ -11,8 +11,8 @@ This topic explains how to sign up for an account.
         <p>Enter your full name and work email ID. Optionally, enter your organization name and click <b>Continue</b></p>
         <note>
             <p>
-                Ensure that you specify your work email ID.
-Personal emails e.g., those from Gmail, Yahoo, etc. prevent you from using all the features of Astronuts.
+                Ensure that you specify your <b>work email</b> ID.
+                Personal emails e.g., those from Gmail, Yahoo, etc. prevent you from using all the features of Astronuts.
             </p>
         </note>
         <img src="signup.png" alt="signup" border-effect="line" width="321" thumbnail="false"/>
