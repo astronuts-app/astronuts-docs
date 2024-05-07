@@ -33,7 +33,7 @@ numbers, and special characters.
         <tip>
             <p>
                 If you don't see the email, check your spam mail folder.
-You may add support@astronuts.io to your trusted list of senders to avoid this in the future.
+You may add <b>support@astronuts.io</b> to your trusted list of senders to avoid this in the future.
             </p>
         </tip>
         <img src="verification-code.png" alt="choose password" border-effect="line" width="321" thumbnail="false"/>
