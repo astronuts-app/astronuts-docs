@@ -44,7 +44,7 @@ You can create a Slack workspace for free at [https://slack.com/](https://slack.
         <img src="slack-review-pre-requisites.png" alt="review pre-requisites and authority for slack app install" border-effect="line" width="321" thumbnail="true"/>
     </step>
     <step>
-        <p>Select your Slack workspace where you want to install the app. To install, review the permissions being requested by the app and provide your consent by clicking on the <b>Allow</b></p> button.
+        <p>Select your Slack workspace where you want to install the app. To install, review the permissions being requested by the app and provide your consent by clicking on the <b>Allow</b> button.</p>
         <img src="slack-install-and-authorize.png" alt="slack authorize and install" border-effect="line" width="321" 
         thumbnail="true"/>
     </step>
