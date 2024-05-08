@@ -1,7 +1,8 @@
 # Slack app
 
-<img src="slack-app-verification.png" alt="review slack app install success" border-effect="line" width="321" 
+<img src="slack-app-verification.png" alt="slack app for astronuts" border-effect="line" width="321" 
 thumbnail="true"/>
+
 ## Introduction
 
 The Slack app for Astronuts is a powerful way
