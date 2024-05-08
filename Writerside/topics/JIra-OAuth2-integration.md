@@ -1,3 +1,3 @@
-# JIra OAuth2 integration
+# Jira OAuth2 integration
 
 Docs coming up...
