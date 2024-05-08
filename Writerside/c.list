@@ -2,5 +2,7 @@
 <!DOCTYPE categories
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
 <categories>
-    <category id="wrs" name="Astronuts Documentation" order="1"/>
+    <category id="asd" name="Astronuts Documentation" order="1"/>
+    <category id="erm" name="Error monitoring" order="2"/>
+    <category id="pri" name="Pull request insights" order="3"/>
 </categories>

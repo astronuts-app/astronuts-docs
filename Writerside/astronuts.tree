@@ -25,7 +25,10 @@
     </toc-element>
     <toc-element topic="Products.topic">
         <toc-element topic="Pull-request-insights.md"/>
-        <toc-element topic="Error-monitoring.md"/>
+        <toc-element topic="Error-monitoring.md">
+            <toc-element topic="Setup-Error-Monitoring.md"/>
+            <toc-element topic="Error-monitoring-how-it-works.md"/>
+        </toc-element>
         <toc-element topic="Engineering-metrics-and-analytics.md"/>
     </toc-element>
     <toc-element topic="Integrations.topic">
