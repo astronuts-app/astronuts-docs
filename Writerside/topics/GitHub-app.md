@@ -2,6 +2,7 @@
 
 <img src="github-app-marketplace-listing.png" alt="github app on marketplace" border-effect="line" width="321" 
 thumbnail="true"/>
+
 ## Introduction
 
 The [GitHub app for Astronuts](https://github.com/marketplace/astronuts-app) is a powerful way
