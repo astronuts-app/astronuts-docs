@@ -19,7 +19,7 @@ The steps for other issue management tools are similar.
     </step>
     <step>
         <p>Click on <b>Integrations</b> on the sidebar menu.</p>
-        <img src="integrations-settings.png" alt="connect git repo from integrations page" border-effect="line" width="321" thumbnail="true"/>
+        <img src="integrations-settings.png" alt="connect jira from integrations page" border-effect="line" width="321" thumbnail="true"/>
     </step>
     <step>
         <p>Find your Issue management platform and click on <b>Install</b>.</p>
@@ -62,7 +62,7 @@ thumbnail="false"/>
                 to connect to your Jira projects depending on the number of repos you have and their size.
             </p>
         </tip>
-        <img src="review-jira-projects.png" alt="review connected git repos" border-effect="line" width="321" 
+        <img src="review-jira-projects.png" alt="review connected jira projects" border-effect="line" width="321" 
         thumbnail="true"/>
     </step>
 </procedure>
