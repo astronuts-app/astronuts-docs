@@ -48,6 +48,7 @@ The visual image is attached to the same pull request comment which contains the
 
 <img src="code-quality-metrics-on-pr.png" alt="pull request insights code quality image " border-effect="line" width="700" 
 thumbnail="false"/>
+<note>Requires that your organization installs our GitHub Action.</note>
 
 ## Labels on pull requests {id="pull-request-insight-labels"}
 
