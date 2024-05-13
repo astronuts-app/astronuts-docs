@@ -54,7 +54,7 @@ The training process is similar for other data sources like Jira, Confluence, Bi
         <p>Repeat the above process for training additional resources.</p>
         <tip>
             <p>
-                You can control various aspects of the training process from the <b>Intellidocs | Settings</b> page.
+                You can control various aspects of the training process from the <a href="https://dashboard.astronuts.io/intellidocs>"><b>Intellidocs | Settings</b></a> page.
             </p>
         </tip>
          <img src="intellidocs-settings.png" alt="intellidocs ai training settings" border-effect="line" width="321" thumbnail="true"/>
