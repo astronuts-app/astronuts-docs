@@ -55,7 +55,7 @@ thumbnail="false"/>
     </step>
     <step>
         <p>To confirm that Astronuts has access to your Jira projects, navigate to 
-            <b>Intellidocs | Train</b> from the sidebar, and look for your Jira projects</p>
+            <a href="https://dashboard.astronuts.io/intellidocs>"><b>Intellidocs | Train</b></a> from the sidebar, and look for your Jira projects</p>
         <tip>
             <p>
                 It might a few seconds for Astronuts

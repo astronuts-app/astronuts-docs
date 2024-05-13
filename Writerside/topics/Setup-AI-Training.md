@@ -1,6 +1,5 @@
 # Train your resources
 
-
 To get the most out of Astronuts products, you would need to **train** Astronuts on your connected data.
 This tutorial will guide you through the process of training Astronuts on your Git repositories.
 
@@ -17,10 +16,9 @@ The training process is similar for other data sources like Jira, Confluence, Bi
     </p>
 </tip>
 
-
 <procedure title="Train Astronuts on your Git repositories" id="connect-git-repos">
     <step>
-        <p>Access the training page on your dashboard by navigating to <b>Intellidocs | Train</b> from the sidebar.</p>
+        <p>Access the training page on your dashboard by navigating to <a href="https://dashboard.astronuts.io/intellidocs>"><b>Intellidocs | Train</b></a> from the sidebar.</p>
     <img src="intellidocs-training.png" alt="intellidocs training" border-effect="line" width="321" thumbnail="true"/>
     </step>
     <step>
