@@ -11,7 +11,7 @@ Astronuts provides real-time resolutions of errors observed in your application 
 Using the rich body of knowledge that you build in Astronuts by connecting your tools and processes,
 Astronuts provides resolutions for errors observed in your application server logs in real-time.
 This is especially useful for large applications with a considerable number of logs
-messages being generated or where you have teh need to resolve production issues quickly.
+messages being generated or where you have the need to resolve production issues quickly.
 
 ## Setup {id="error-monitoring-setup"}
 

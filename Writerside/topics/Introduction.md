@@ -77,4 +77,4 @@ So we decided to build Astronuts.
 Astronuts is a rapidly evolving platform, where we have a bi-monthly release cycle.
 We are constantly adding new features and improving existing ones by listening to our customers.
 
-<a href="https://github.com/astronuts-app/astronuts-tracker/milestones" summary="See the Astronuts tracker to know what's planned for teh year">Astronuts roadmap</a>
+<a href="https://github.com/astronuts-app/astronuts-tracker/milestones" summary="See the Astronuts tracker to know what's planned for the year">Astronuts roadmap</a>
