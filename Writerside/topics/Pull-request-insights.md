@@ -48,6 +48,7 @@ The visual image is attached to the same pull request comment which contains the
 
 <img src="code-quality-metrics-on-pr.png" alt="pull request insights code quality image " border-effect="line" width="700" 
 thumbnail="false"/>
+<note>Requires that your organization installs <a href="https://github.com/marketplace/actions/astronuts-code-quality-action">Astronuts GitHub Code Quality Action</a>.</note>
 
 ## Labels on pull requests {id="pull-request-insight-labels"}
 
