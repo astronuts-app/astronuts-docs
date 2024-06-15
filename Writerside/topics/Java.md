@@ -1,6 +1,6 @@
 # Java
 
-## Steps to Run Astronuts Code Quality Checks on your Python Project
+## Steps to Run Astronuts Code Quality Checks on your Python Project {id="java-code-quality-steps"}
 
 <tabs>
     <tab id="gradle" title="gradle">
