@@ -58,13 +58,13 @@
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.8.7</version>
                 <executions>
-            <!-- Prepare the JaCoCo agent before tests run -->
+                    <!-- Prepare the JaCoCo agent before tests run -->
                     <execution>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
                     </execution>
-            <!-- Generate JaCoCo report after tests run -->
+                    <!-- Generate JaCoCo report after tests run -->
                     <execution>
                         <id>report</id>
                         <phase>test</phase>
@@ -88,13 +88,13 @@
             <!--3. Add Necessary Dependencies -->
             <!-- Include the necessary dependencies for your project and testing: -->
             <dependencies>
-            <!-- Project dependency -->
+                <!-- Project dependency -->
                 <dependency>
                     <groupId>com.google.guava</groupId>
                     <artifactId>guava</artifactId>
                     <version>31.0.1-jre</version>
                 </dependency>
-            <!-- JUnit 5 dependencies for testing -->
+                <!-- JUnit 5 dependencies for testing -->
                 <dependency>
                     <groupId>org.junit.jupiter</groupId>
                     <artifactId>junit-jupiter-api</artifactId>
@@ -115,7 +115,6 @@
                 </dependency>
             </dependencies>
             <!-- 4. Configure the Java Toolchain -->
-
             <!-- Specify the Java toolchain for your project by setting the Java version in the `properties` section: -->
             <properties>
                 <maven.compiler.source>21</maven.compiler.source>
@@ -123,7 +122,6 @@
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
             </properties>
             <!--5. Configure the Test Task -->
-            
             <!--Ensure the `test` task is configured to generate JaCoCo reports after tests run by setting up the Surefire plugin:-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -141,8 +139,7 @@
                 </dependencies>
             </plugin>
         ]]>
-
-</code-block>
+        </code-block>
     </tab>
 </tabs>
 ## Integration with CI/CD Workflow
