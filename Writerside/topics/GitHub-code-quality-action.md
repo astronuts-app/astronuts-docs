@@ -1,6 +1,6 @@
 # GitHub code quality action
 
-# Astronuts Code Quality Action
+## Astronuts Code Quality Action
 
 Astronuts Code Quality Action is a GitHub action that runs Astronuts code quality scans on your projects. It supports multiple programming languages and integrates with various build systems.
 
