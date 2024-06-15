@@ -6,11 +6,11 @@ The steps for other Git providers are similar.
 
 <procedure title="Connect your Git repositories" id="connect-git-repos">
     <step>
-        <p>Access your <a href="https://dashboard.astronuts.io/"><b>Dashboard</b></a> or open a browser window and go to https://dashboard.astronuts.io/.</p>
+        <p>Access your <a href="https://dashboard.astronuts.io/"><b>Dashboard</b></a> or open a browser window and go to <a href="https://dashboard.astronuts.io/">https://dashboard.astronuts.io/</a>.</p>
     <img src="account-dashboard.png" alt="start dashboard" border-effect="line" width="321" thumbnail="true"/>
     </step>
     <step>
-        <p>Click on <b>Integrations</b> on the sidebar menu.</p>
+        <p>Click on <a href="https://dashboard.astronuts.io/settings"><b>Integrations</b></a> on the sidebar menu.</p>
         <img src="integrations-settings.png" alt="connect git repo from integrations page" border-effect="line" width="321" thumbnail="true"/>
     </step>
     <step>
@@ -59,7 +59,7 @@ thumbnail="false"/>
     </step>
     <step>
         <p>To confirm that Astronuts has access to your Git repositories, navigate to 
-            <b>Intellidocs | Train</b> from the sidebar and look for your GitHub repositories.</p>
+            <a href="https://dashboard.astronuts.io/intellidocs>"><b>Intellidocs | Train</b></a> from the sidebar and look for your GitHub repositories.</p>
         <tip>
             <p>
                 It might a few seconds for Astronuts
