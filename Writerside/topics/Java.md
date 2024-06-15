@@ -1,4 +1,4 @@
-# Java
+# Code Quality Action Setup for Java Project
 
 <tabs>
     <tab id="gradle" title="gradle">
@@ -41,7 +41,7 @@ jacocoTestReport {
     }
 }
 tasks.build {
-dependsOn jacocoTestReport
+    dependsOn jacocoTestReport
 }
 </code-block>
     </tab>
@@ -166,3 +166,5 @@ Add this to your workflow file to run Astronuts Code Quality Checks on your Java
     </tab>
 </tabs>
 For more info you can check the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).
+For more info on the workflow file, you can check
+the [GitHub Actions Workflow Sample](https://github.com/astronuts-app/samples/blob/main/.github/workflows/build_java_sample.yml).****

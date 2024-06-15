@@ -1,4 +1,4 @@
-# Python
+# Code Quality Action Setup for Python Project
 ## Steps to Run Astronuts Code Quality Checks on your Python Project
 ## Astronuts Python Reporter
 Astronuts Reporter is a powerful tool that generates test reports. It's designed to be easy to use.
@@ -48,3 +48,6 @@ Step 3 : Run Astronuts Code Quality Checks on your Python Project.
 For more info you can check the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).
 <br/>
 For more reference on how to use Astronuts Reporter, you can check the [Astronuts Reporter](https://pypi.org/project/astronuts-python-reporter/).
+<br/>
+For more info on the workflow file, you can check
+the [GitHub Actions Workflow Sample](https://github.com/astronuts-app/samples/blob/main/.github/workflows/build_python_sample.yml).
