@@ -3,7 +3,7 @@
 ## Steps to Run Astronuts Code Quality Checks on your Python Project {id="java-code-quality-steps"}
 
 <tabs>
-    <tab id="gradle" title="gradle">
+    <tab id="gradle" title="Gradle">
         <code-block lang="groovy">
             // Apply the JaCoCo Plugin to capture and visualize code coverage testing results.
             apply plugin: 'jacoco'
@@ -47,7 +47,7 @@
             }
         </code-block>
     </tab>
-    <tab id="maven" title="maven">
+    <tab id="maven" title="Maven">
         <code-block lang="xml">
         <![CDATA[
             <!-- Step-by-Step Guide to Configure JaCoCo in a Maven Project -->
