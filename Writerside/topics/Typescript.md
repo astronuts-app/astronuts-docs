@@ -1,13 +1,13 @@
 # Typescript
 
-#### Steps to Run Astronuts Code Quality Checks on your Typescript Project
+#### Steps to Run Astronuts Code Quality Checks on your Typescript Project {id="steps-to-run-astronuts-code-quality-checks-on-your-typescript-project"}
 
-### Install Astronuts Reporter
+### Install Astronuts Reporter {id="install-astronuts-reporter-typescript"}
 
 To install Astronuts Reporter, open your terminal and run the following command:
 
 <tabs>
-    <tab id="npm install" title="npm">
+    <tab id="npm-install" title="npm">
         <code-block lang="bash">
             npm install @astronutsapp/astronuts-reporter --save-dev
         </code-block>
@@ -26,7 +26,7 @@ To install Astronuts Reporter, open your terminal and run the following command:
 
 This command installs Astronuts Reporter as a development dependency in your project.
 
-## Integration with CI/CD Workflow
+## Integration with CI/CD Workflow {id="integration-with-ci-cd-workflow-typescript"}
 
 Now for astronuts to run the code quality checks on your project, you need to add the following steps to your CI/CD
 workflow file:
