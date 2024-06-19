@@ -2,6 +2,8 @@
 
 ### Steps to Run Astronuts Code Quality Checks on your Javascript Project {id="steps-to-run-astronuts-code-quality-checks-on-your-javascript-project"}
 
+<video src="https://youtu.be/fRIiY8tqhAo" preview-src="javascript_video_thumbnail.png" />  {id="javascript-code-quality-setup-video"}
+
 ### Install Astronuts Reporter {id="install-astronuts-reporter-javascript"}
 
 To install Astronuts Reporter, open your terminal and run the following command:
