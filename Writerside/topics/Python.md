@@ -2,6 +2,8 @@
 
 ## Steps to Run Astronuts Code Quality Checks on your Python Project {id="python-code-quality-steps"}
 
+<video src="https://youtu.be/EPU5-iRt97w" preview-src="python_video_thumbnail.png" /> {id="python-code-quality-setup-video"}
+
 ## Astronuts Python Reporter {id="astronuts-python-reporter"}
 
 Astronuts Reporter is a powerful tool that generates test reports. It's designed to be easy to use.
