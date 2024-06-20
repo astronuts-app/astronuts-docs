@@ -23,31 +23,46 @@
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="Signup.md" type="start" summary="Signup for an Astronuts account and hit the ground running.">Signup</a>
-            <a href="Introduction.md" type="search" summary="Quick introduction and get your way around using the Astronuts Dashboard, and setup your preferences just the way you like it.">Discover Astronuts</a>
+            <a href="Introduction.md" type="search"
+               summary="Quick introduction and get your way around using the Astronuts Dashboard, and setup your preferences just the way you like it.">Discover
+                Astronuts</a>
+            <a href="Connect-Git-Repositories.md" type="branch"
+               summary="Connect your GitHub organization with Astronuts.">Connect your Git repositories</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>First steps</title>
-            <a href="Connect-Git-Repositories.md" type="branch"
-               summary="Connect your GitHub organization with Astronuts.">Connect your Git repositories</a>
             <a href="Setup-AI-Training.md" type="network"
-               summary="Start building your contextual knowledge base by training Astronuts on your data.">Train Astronuts on your data</a>
-            <a href="Setup-static-code-analysis.md" summary="Setup static code quality analysis through your CI/CD process.">Setup static code analysis</a>
-            <a href="Connect-issue-management-tool.md" summary="Connect your issue management tools like Jira.">Connect your issue management tool</a>
+               summary="Start building your contextual knowledge base by training Astronuts on your data.">Train
+                Astronuts on your data</a>
+            <a href="Setup-static-code-analysis.md" type="development"
+               summary="Setup static code quality analysis through your CI/CD process.">Setup static code analysis</a>
+            <a href="Connect-issue-management-tool.md" summary="Connect your issue management tools like Jira.">Connect
+                your issue management tool</a>
             <a href="Connect-Slack.md" summary="Install the Slack app for Astronuts.">Connect your Slack workspace</a>
-            <a href="Invite-team-members.md" summary="Add your team members and assign them roles.">Invite your team members</a>
-            <a href="Select-billing-plan.md" summary="Know about available billing plans and choose the one that suits your needs best.">Select billing plan</a>
+            <a href="Invite-team-members.md" summary="Add your team members and assign them roles.">Invite your team
+                members</a>
+            <a href="Select-billing-plan.md"
+               summary="Know about available billing plans and choose the one that suits your needs best.">Select
+                billing plan</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
             <title>Start using Astronuts</title>
-            <a href="Pull-request-insights.md" summary="Got automated PR summary, PR readiness labels and code quality metrics.">Pull Request insights</a>
-            <a href="Error-monitoring.md" summary="Get realtime insights and resolutions of production errors observed in your application server logs">Error monitoring</a>
-            <a href="Engineering-metrics-and-analytics.md" summary="Get engineering metrics from static code quality analysis and DORA metrics">Engineering metrics and analytics</a>
-            <a href="https://www.astronuts.io/blog" target="_blank" summary="Read the Astronuts blog to stay updated on Astronuts' features, AI and software engineering best practices.">Discover more</a>
+            <a href="Pull-request-insights.md"
+               summary="Got automated PR summary, PR readiness labels and code quality metrics.">Pull Request
+                insights</a>
+            <a href="Error-monitoring.md"
+               summary="Get realtime insights and resolutions of production errors observed in your application server logs">Error
+                monitoring</a>
+            <a href="Engineering-metrics-and-analytics.md"
+               summary="Get engineering metrics from static code quality analysis and DORA metrics">Engineering metrics
+                and analytics</a>
+            <a href="https://www.astronuts.io/blog" target="_blank"
+               summary="Read the Astronuts blog to stay updated on Astronuts' features, AI and software engineering best practices.">Discover
+                more</a>
         </secondary>
 
         <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
@@ -56,22 +71,35 @@
                 <title>Astronuts apps, integrations and tools</title>
                 <a href="Slack-app.md" summary="Astronuts app for Slack">Slack app</a>
                 <a href="GitHub-app.md" summary="Astronuts GitHub app">GitHub app</a>
-                <a href="Atlassian-apps-and-integrations.topic" summary="Jira, Bitbucket and Confluence integrations">Atlassian integrations</a>
-                <a href="GitHub-code-quality-action.md" summary="Astronuts GitHub action that runs static code analysis on your repository">GitHub Code Quality action</a>
-                <a href="Bitbucket-code-quality-pipe.md" summary="Astronuts Bitbucket pipe that runs static code analysis on your repository">Bitbucket Code Quality pipe</a>
-                <a href="Error-monitoring-libraries.md" summary="Libraries to ship events from your application server logs to Astronuts for realtime resolutions">Astronuts error monitoring libraries</a>
+                <a href="Atlassian-apps-and-integrations.topic" summary="Jira, Bitbucket and Confluence integrations">Atlassian
+                    integrations</a>
+                <a href="GitHub-code-quality-action.md"
+                   summary="Astronuts GitHub action that runs static code analysis on your repository">GitHub Code
+                    Quality action</a>
+                <a href="Bitbucket-code-quality-pipe.md"
+                   summary="Astronuts Bitbucket pipe that runs static code analysis on your repository">Bitbucket Code
+                    Quality pipe</a>
+                <a href="Error-monitoring-libraries.md"
+                   summary="Libraries to ship events from your application server logs to Astronuts for realtime resolutions">Astronuts
+                    error monitoring libraries</a>
             </cards>
 
             <links>
                 <group>
                     <title>Contribute</title>
-                    <a href="Contributions.md" summary="Found a bug in documentation? You can update this documentation site yourself">Update the docs</a>
-                    <a href="Open-source.md" summary="Contribute to Astronuts open source libraries and SDKs">Open source libraries</a>
+                    <a href="Contributions.md"
+                       summary="Found a bug in documentation? You can update this documentation site yourself">Update
+                        the docs</a>
+                    <a href="Open-source.md" summary="Contribute to Astronuts open source libraries and SDKs">Open
+                        source libraries</a>
                 </group>
                 <group>
                     <title>Help make Astronuts better</title>
-                    <a href="https://github.com/astronuts-app/astronuts-tracker/issues" summary="Found a bug in Astronuts? Create an issue and add the `bug` label.">Submit an issue</a>
-                    <a href="https://github.com/astronuts-app/astronuts-tracker/issues" summary="Want a feature that you need? Create an issue and add the `feature-request` label.">Request a feature</a>
+                    <a href="https://github.com/astronuts-app/astronuts-tracker/issues"
+                       summary="Found a bug in Astronuts? Create an issue and add the `bug` label.">Submit an issue</a>
+                    <a href="https://github.com/astronuts-app/astronuts-tracker/issues"
+                       summary="Want a feature that you need? Create an issue and add the `feature-request` label.">Request
+                        a feature</a>
                 </group>
             </links>
         </misc>
