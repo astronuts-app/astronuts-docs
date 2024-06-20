@@ -6,10 +6,8 @@
                  name="Astronuts Docs"
                  start-page="Getting-Started-Page.topic">
     <toc-element topic="Getting-Started-Page.topic">
-        <toc-element topic="Signup.md"/>
         <toc-element topic="Introduction.md"/>
         <toc-element topic="Dashboard.md">
-            <toc-element topic="Logging-in.md"/>
             <toc-element topic="Navigation.md"/>
             <toc-element topic="Appearance.md"/>
         </toc-element>

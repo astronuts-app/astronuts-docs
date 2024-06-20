@@ -23,7 +23,6 @@
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="Signup.md" type="start" summary="Signup for an Astronuts account and hit the ground running.">Signup</a>
             <a href="Introduction.md" type="search" summary="Quick introduction and get your way around using the Astronuts Dashboard, and setup your preferences just the way you like it.">Discover Astronuts</a>
         </spotlight>
 

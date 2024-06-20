@@ -8,7 +8,6 @@ This example assumes that you write log messages in your applications. Astronuts
 
 Complete the following first, depending on the tools you use.
 
-* [Signup](Signup.md) and create an account on Astronuts.
 * [Connect your Slack workspace](Connect-Slack.md) with Astronuts.}
 * [Connect your GitHub repositories](Connect-Git-Repositories.md) with Astronuts.
 * [Setup AI training](Setup-AI-Training.md) for your repositories.
