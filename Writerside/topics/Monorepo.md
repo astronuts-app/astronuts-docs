@@ -140,8 +140,6 @@ Add this to your workflow file to run Astronuts Code Quality Checks on your Mono
         </code-block>
     </tab>
 </tabs>
-Note* : There is no need to specify build systems and languages used in the project as we use our auto detection system to detect that.  
-<br></br>
 For more info you can check
 the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).
 
