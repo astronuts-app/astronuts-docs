@@ -159,8 +159,7 @@ Add this to your workflow file to run Astronuts Code Quality Checks on your Java
       </code-block>
     </tab>
 </tabs>
-Note* : There is no need to specify build systems and languages used in the project as we use our auto detection system to detect that.  
-        -> For now we only support test written with JaCoCo library to generate reports.
+
 <br></br>
 For more info you can check
 the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).

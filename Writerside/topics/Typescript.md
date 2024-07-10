@@ -46,9 +46,7 @@ Step 2 : Run Astronuts Code Quality Checks on your Python Project.
 - name: Run Astronuts Code Quality Checks
   uses: astronuts-app/astronuts-code-quality-action@v4
 ```
-Note* : There is no need to specify build systems and languages used in the project as we use our auto detection system to detect that.
-        -> For now we only support test written with jest library to generate reports.
-<br></br>
+
 
 For more info you can check
 the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).
