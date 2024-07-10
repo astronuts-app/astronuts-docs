@@ -54,10 +54,9 @@ Step 3 : Run Astronuts Code Quality Checks on your Python Project.
 ```bash
       - name: Run Astronuts Code Quality Checks
         uses: astronuts-app/astronuts-code-quality-action@v4
-        with:
-          sourceLanguage: 'python'
-          buildSystem: 'pip'
 ```
+
+<br></br>
 
 For more info you can check
 the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).

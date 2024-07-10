@@ -150,22 +150,17 @@ Add this to your workflow file to run Astronuts Code Quality Checks on your Java
         <code-block lang="yaml">
       - name: Run Astronuts Code Quality Checks
         uses: astronuts-app/astronuts-code-quality-action@v4
-        with:
-          sourceLanguage: 'java'
-          buildSystem: 'gradle'
       </code-block>
     </tab>
     <tab id="workflow-maven" title="maven">
         <code-block lang="yaml">
       - name: Run Astronuts Code Quality Checks
         uses: astronuts-app/astronuts-code-quality-action@v4
-        with:
-          sourceLanguage: 'java'
-          buildSystem: 'maven'
       </code-block>
     </tab>
 </tabs>
 
+<br></br>
 For more info you can check
 the [Astronuts Code Quality Action](https://github.com/marketplace/actions/astronuts-code-quality-action).
 
