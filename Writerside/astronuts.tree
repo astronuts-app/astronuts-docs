@@ -41,6 +41,7 @@
     <toc-element topic="Tools-and-libraries.topic">
         <toc-element topic="GitHub-code-quality-action.md">
             <toc-element topic="Java.md"/>
+            <toc-element topic="Monorepo.md"/>
             <toc-element topic="Javascript.md"/>
             <toc-element topic="Typescript.md"/>
             <toc-element topic="Python.md"/>
