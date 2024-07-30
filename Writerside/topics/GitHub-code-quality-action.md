@@ -15,10 +15,13 @@ Astronuts Code Quality Action is a GitHub action that runs Astronuts code qualit
 
 Astronuts Code Quality Action supports the following languages:
 
+Note* : code quality action only support specific code coverage libraries . You can refer documentation here: 
+
 - [Java](Java.md)
 - [TypeScript](Typescript.md)
 - [JavaScript](Javascript.md)
 - [Python](Python.md)
+
 
 Click on a language to see detailed instructions on how to set up and run Astronuts Code Quality Checks for that specific language.
 
@@ -31,19 +34,27 @@ Astronuts Code Quality Action supports the following build tools:
 - npm
 - pip
 
+
+
 ## Inputs {id="code-quality-action-inputs"}
 
 These are some of the supported input parameters of the action:
 
-- `sourceLanguage` - **_(Required)_** The programming language of the source code to be analyzed.
-- `rootDir` - _(Optional)_ The root directory of source code. If unspecified, it's auto-detected.
-- `buildSystem` - _(Optional)_ The build system. If not specified, the action tries to auto-detect one.
-- `failOnError` - _(Optional)_ If set to true, the build will fail if the code quality analysis fails. Build will pass silently otherwise.
-
+- `rootDir` - _(Optional)_ the root directory of the repository on the file system. If unspecified, its auto-detected.
+- `failOnError` - _(Optional)_ If set to true, the build will fail if the code quality analysis fails. Build will pass
+  silently otherwise.
+- `language` - _(Optional)_ The language of the source code. If unspecified, its auto-detected.
+- `build-system` - _(Optional)_ The build tool used to build the project. If unspecified, its auto-detected.
+- `test-reports-root` - _(Optional)_ The root directory of the test reports. If unspecified, its auto-detected.
+- `coverage-lib` - _(Optional)_ The coverage library used to generate coverage reports. If unspecified, its
+  auto-detected.
+- `coverage-report-paths` - _(Optional)_ comma seperated list of coverage report paths relative to root directory.
+  If unspecified, its auto-detected based on coverage library used.
+- 
 ## Example usage {id="code-quality-action-example-usage"}
 
 ```yaml
-uses: actions/astronuts-code-quality-action@v4
+uses: actions/astronuts-code-quality-action@v5
 with:
   sourceLanguage: 'java'
   buildSystem: 'gradle'
